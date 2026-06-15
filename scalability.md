@@ -1,8 +1,7 @@
 # Scalability
 
 Verticle scaling - Increase more cpu cores, RAM of a single machine.
-
-More down time, good for poc server or servers with low/no traffic.
+ - More down time, good for poc server or servers with low/no traffic.
 
 
 Horizantal Scaling - Increase the number of tiny machines which proc=vides zero redundacy. (99.99% availblity)
