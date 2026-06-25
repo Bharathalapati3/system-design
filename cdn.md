@@ -90,11 +90,3 @@ A Content Delivery Network (CDN) is a geographically distributed network of edge
 ## Vendors and features
 - Popular CDN/edge offerings: Cloudflare (Workers), Fastly (Compute), AWS CloudFront (Lambda@Edge / CloudFront Functions), Akamai.
 - Different vendors have different features for tagging, purging, edge compute, and configuration — consult vendor docs for advanced configs.
-
-## Next improvements you can make
-- Add diagrams showing request flow (client → edge → origin → shield).
-- Add vendor-specific examples and API snippets for invalidation and edge functions.
-- Add a short checklist for configuring common asset types (images, HTML, APIs).
-- Add a section showing how to test cache behavior (curl examples demonstrating headers and cache hits/misses).
-
-Products / examples: Cloudflare Workers, Lambda@Edge (CloudFront), Fastly Compute
